@@ -65,6 +65,7 @@ print(f"Predicted value: {pre}")
 
 ### Value of X1_Scaled
 <img width="416" height="878" alt="image" src="https://github.com/user-attachments/assets/ed78dcef-09db-4196-b34e-324e1a69acd2" />
+
 ### Predicted Value
 <img width="326" height="53" alt="image" src="https://github.com/user-attachments/assets/a34094a2-57a5-4364-b582-61cbed9c6726" />
 
